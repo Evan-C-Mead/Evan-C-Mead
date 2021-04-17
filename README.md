@@ -9,7 +9,7 @@
 
 <hr>
 
-<div align ="center">
+<div align="center">
  <img src="https://img.shields.io/badge/HTML55%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white&style=flat">
  <img src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white&style=flat">
  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&style=flat">
@@ -23,12 +23,17 @@
  <img src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=#4479A1&style=flat">
 </div>
 
-[![Evan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Evan-C-Mead)](https://github.com/anuraghazra/github-readme-stats)
+<hr>
+
+<div align="center">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Evan-C-Mead&include_all_commits=true&count_private=true&show_icons=true&line_height=20" alt="Evan's Github Stats">
+</div>
 
 <hr>
 
-<img src ="https://github-readme-streak-stats.herokuapp.com/?user=Evan-C-Mead"/>
-
+<div align="center">
+ <img src ="https://github-readme-streak-stats.herokuapp.com/?user=Evan-C-Mead" alt="Extra Stats">
+</div>
 
 <!--
 **Evan-C-Mead/Evan-C-Mead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
