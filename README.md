@@ -28,11 +28,12 @@
 </div>
 
 <div align="center">
+ <h3>Profile Stats</h3>
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Evan-C-Mead&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=gruvbox&show_icons=true" alt="Evan's Github Stats">
 </div>
 
 <div align="center">
- <h3>Profile Stats</h3>
+ <h3>Commit Stats</h3>
  <img src ="https://github-readme-streak-stats.herokuapp.com/?user=Evan-C-Mead&theme=gruvbox" alt="Extra Stats">
 </div>
 
