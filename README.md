@@ -1,6 +1,6 @@
 ### Hello World! :wave: :earth_americas:
 
-- :computer: I’m currently working on my Pokedex project.
+- :computer: I’m currently working on my Stocks App.
 - :seedling: I’m currently sharpening my Java and React skills! 
 - :globe_with_meridians: I’m looking to collaborate on anything!
 - :speech_balloon: Ask me about my love for deadmau5 :skull::mouse: and golf :golf:!
