@@ -17,7 +17,7 @@
  <img src="https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&style=flat">
  <img src="https://img.shields.io/badge/jQuery%20-%230769AD.svg?logo=jquery&logoColor=#0769AD&style=flat">
  <img src ="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat">
- <img src ="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
+ <img src ="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white=flat">
  <img src ="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat">
  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=#007396&style=flat">
  <br>
