@@ -1,7 +1,7 @@
 ### Hello World! :wave: :earth_americas:
 
-- :computer: I’m currently working in Bubble.io and Xcode.
-- :seedling: I’m currently sharpening my JavaScript and Swift/SwiftUI skills! 
+- :computer: I’m currently working in IntelliJ with Java, Visual Studio with C#.
+- :seedling: I’m currently sharpening my JavaScript and React skills! 
 - :globe_with_meridians: I’m looking to collaborate on anything!
 - :speech_balloon: Ask me about my love for deadmau5 :skull::mouse: and golf :golf:!
 - :mailbox: How to reach me @ <a href="https://www.linkedin.com/in/evan-c-mead/"><img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn</a> -or- :email: evan.c.mead@gmail.com.
