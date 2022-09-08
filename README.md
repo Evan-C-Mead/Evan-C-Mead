@@ -1,6 +1,6 @@
 ### Hello World! :wave: :earth_americas:
 
-- :computer: I’m currently working in IntelliJ with Java, Visual Studio with C#.
+- :computer: I’m currently working in IntelliJ with Java, and Visual Studio with C#.
 - :seedling: I’m currently sharpening my JavaScript and React skills! 
 - :globe_with_meridians: I’m looking to collaborate on anything!
 - :speech_balloon: Ask me about my love for deadmau5 :skull::mouse: and golf :golf:!
