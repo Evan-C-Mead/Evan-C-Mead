@@ -1,4 +1,4 @@
-### Hello World! :wave: :earth_americas:
+### Hi Friend! :wave: :earth_americas:
 
 - :computer: I’m currently working in IntelliJ with Java and React, and in Visual Studio with C#.
 - :seedling: I’m currently sharpening my JavaScript and React skills! 
