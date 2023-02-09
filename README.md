@@ -1,7 +1,8 @@
 ### Hi Friend! :wave: :earth_americas:
 
 - :computer: I’m currently working in IntelliJ with Java and React, and in Visual Studio with C#.
-- :seedling: I’m currently sharpening my JavaScript and React skills! 
+- :seedling: I’m learning Svelte and SvelteKit.
+- :seedling: I’m currently sharpening my JavaScript and React skills as well! 
 - :globe_with_meridians: I’m looking to collaborate on anything!
 - :speech_balloon: Ask me about my love for deadmau5 :skull::mouse: and golf :golf:!
 - :mailbox: Feel free to reach me @ <a href="https://www.linkedin.com/in/evan-c-mead/"><img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn</a> -or- :email: evan.c.mead@gmail.com.
