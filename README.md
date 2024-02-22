@@ -2,7 +2,7 @@
 
 - :computer: I’m currently working in Visual Studio with C# and Javascript.
 - :seedling: I’m learning Svelte and SvelteKit.
-- :globe_with_meridians: I’m looking to collaborate on anything!
+- :globe_with_meridians: Expanding my knowledge in game development as well - Godot, Unity, and UE5.
 - :grinning: Pronouns - He/Him.
 
 <hr>
